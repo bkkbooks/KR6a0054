@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0054/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋摩男本四子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0054.xml
+    old_id: T01n0054
+hash: sha256:7e24eea323316c8a6d12357b6af71e2d3467dec03a229930d2eb77e0a12dce40

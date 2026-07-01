@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6a0054/v1
+canonical_location: https://kanripo.org/bkk/KR6a0054/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋摩男本四子經
+  identifiers:
+    alt_id:
+    - T01n0054
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0054.xml
+    old_id: T01n0054
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0054_000.yaml, hash: 'sha256:7e24eea323316c8a6d12357b6af71e2d3467dec03a229930d2eb77e0a12dce40'}
+  - {seq: 1, filename: KR6a0054_001.yaml, hash: 'sha256:9161552c165b3cbeb4a64f7d34dc0993941488a5fe79a95b37e27f819bd46b33'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0054_001.markers.yaml, hash: 'sha256:be3c39c43952ec7b80924c5a8d3f72edb47c07969fac6be7da04822291a0299a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0054_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1651
+  label: 佛說釋摩男本四子經
+  type: juan
+  level: 1
+hash: sha256:82bca5476d013b008f818df1a49e6bd1ce09719dbc8ebc1309f751488a428ba1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
