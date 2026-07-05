@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0054_000.yaml, hash: 'sha256:7e24eea323316c8a6d12357b6af71e2d3467dec03a229930d2eb77e0a12dce40'}
-  - {seq: 1, filename: KR6a0054_001.yaml, hash: 'sha256:9161552c165b3cbeb4a64f7d34dc0993941488a5fe79a95b37e27f819bd46b33'}
+  - {seq: 1, filename: KR6a0054_001.yaml, hash: 'sha256:6f394ab6fd0e4ca6069326bb64fc07d57a168fb2e27e03cc201e354dd727fe47'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0054_001.markers.yaml, hash: 'sha256:be3c39c43952ec7b80924c5a8d3f72edb47c07969fac6be7da04822291a0299a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0054_000.markers.yaml, hash: 'sha256:6e563d660ec26e136d278560de5d1efaa4ef7b25cf374f6f8fee29e43b27199f'}
+  - {seq: 1, role: markers, filename: assets/KR6a0054_001.markers.yaml, hash: 'sha256:29e3b1218b00ad7f92145bc69b5c844802da12207c103a99f501baaba66c959e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說釋摩男本四子經
   type: juan
   level: 1
-hash: sha256:82bca5476d013b008f818df1a49e6bd1ce09719dbc8ebc1309f751488a428ba1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8974329bd494a03d606fa185ad6a74220c7095694beaf28f491ef4aec15b8548
