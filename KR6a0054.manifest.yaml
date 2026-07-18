@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0054_000.yaml, hash: 'sha256:7e24eea323316c8a6d12357b6af71e2d3467dec03a229930d2eb77e0a12dce40'}
   - {seq: 1, filename: KR6a0054_001.yaml, hash: 'sha256:9bac94e74fe928899a38d17c052b2c54fbfb6975a2cd8b9eb03332df8af055ff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0054_000.markers.yaml, hash: 'sha256:6e563d660ec26e136d278560de5d1efaa4ef7b25cf374f6f8fee29e43b27199f'}
+  - {seq: 0, role: markers, filename: assets/KR6a0054_000.markers.yaml, hash: 'sha256:f45eedcad1c0fef0a4161f41acbeca1d688e71136a4e9f904ee50df2dbb08ce0'}
   - {seq: 1, role: markers, filename: assets/KR6a0054_001.markers.yaml, hash: 'sha256:962c52866e0b0ec66d24a826e4460570b5a7d70433c7df8562262d9ea126eb62'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說釋摩男本四子經
   type: juan
   level: 1
-hash: sha256:45133d96abb056b5361d63b8a428b7869596a343c6b604cb46c5292fdb6ed2c5
+hash: sha256:8b0b047b2daf83b050f2b50991d245a3e33234a0d0abce7d55e3d208b7f72084
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
